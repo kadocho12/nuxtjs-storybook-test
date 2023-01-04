@@ -1,4 +1,4 @@
 node_modules
 .nuxt
 .nuxt-storybook
-DS_Store
+.DS_Store
